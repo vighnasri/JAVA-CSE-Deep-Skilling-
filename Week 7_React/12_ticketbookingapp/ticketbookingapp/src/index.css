@@ -1,0 +1,18 @@
+/* UserPage.css */
+h2.user-page {
+  color: green;
+  font-weight: bold;
+}
+ h3{
+    font-size: 1pc;
+    color:crimson;
+  }
+/* GuestPage.css */
+h2.guest-page {
+  color: rgb(255, 0, 212);
+  font-weight: bold;
+}
+ p{
+  color:crimson;
+  font-size: 1pc;
+}
